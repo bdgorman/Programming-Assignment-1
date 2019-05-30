@@ -13,5 +13,5 @@ The main method calls functions for
 
 
 # What I learned
-- How to build and travers a binary tree
+- How to build and travers a Linked list
 - Several ways to parse a text file
