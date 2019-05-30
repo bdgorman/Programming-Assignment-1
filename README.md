@@ -10,3 +10,8 @@ The main method calls functions for
   3. counting the number of words within the text
   4. counting the number of words in the list itself
   5. Traversing the list to find words before and after
+
+
+# What I learned
+- How to build and travers a binary tree
+- Several ways to parse a text file
